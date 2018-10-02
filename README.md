@@ -1,3 +1,3 @@
 # admintest
 
-I am a great editor.
+I thought I was a great editor.
